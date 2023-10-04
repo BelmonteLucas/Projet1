@@ -33,12 +33,12 @@ int main()
             size_t pos2 = lecture.find(',', pos1 + 1);
             size_t pos3 = lecture.find(',', pos2 + 1);
             size_t pos4 = lecture.find(',', pos3 + 1);
-			size_t pos5 = lecture.find(',', pos4 + 1);
-			size_t pos6 = lecture.find(',', pos5 + 1);
-			size_t pos7 = lecture.find(',', pos6 + 1);
-			size_t pos8 = lecture.find(',', pos7 + 1);
-			size_t pos9 = lecture.find(',', pos8 + 1);
-			size_t pos10 = lecture.find(',', pos9 + 1);
+	    size_t pos5 = lecture.find(',', pos4 + 1);
+	    size_t pos6 = lecture.find(',', pos5 + 1);
+            size_t pos7 = lecture.find(',', pos6 + 1);
+	    size_t pos8 = lecture.find(',', pos7 + 1);
+	    size_t pos9 = lecture.find(',', pos8 + 1);
+	    size_t pos10 = lecture.find(',', pos9 + 1);
 
             if (pos4 != string::npos)
             {
