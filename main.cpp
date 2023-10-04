@@ -5,7 +5,7 @@
 // En mode TERMINAL shell : 
 // Compilation : 	g++ sRs232.cpp exemple.cpp -o exemple
 // Exécution : ./exemple
-///////////////////////////////////////////////////
+//////////////////////////////////////////////
 
 #include <iostream>
 #include "sRs232.h"
